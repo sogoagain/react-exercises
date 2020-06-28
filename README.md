@@ -19,3 +19,5 @@
     - [코드리뷰 PR](https://github.com/CodeSoom/week2-assignment-2/pull/14)
 5. [To-do 테스트 작성하기](https://github.com/sogoagain/react-exercises/tree/master/05_simple-todo-with-test)
     - [코드리뷰 PR](https://github.com/CodeSoom/week3-assignment-1/pull/4)
+6. [To-do Redux를 사용하도록 리팩터링 하기](https://github.com/sogoagain/react-exercises/tree/master/06_simple-todo-with-redux)
+    - [코드리뷰 PR](https://github.com/CodeSoom/week4-assignment-1/pull/6)
