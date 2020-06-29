@@ -21,3 +21,5 @@
     - [코드리뷰 PR](https://github.com/CodeSoom/week3-assignment-1/pull/4)
 6. [To-do Redux를 사용하도록 리팩터링 하기](https://github.com/sogoagain/react-exercises/tree/master/06_simple-todo-with-redux)
     - [코드리뷰 PR](https://github.com/CodeSoom/week4-assignment-1/pull/6)
+7. [레스토랑 등록 및 정보 확인 App](https://github.com/sogoagain/react-exercises/tree/master/07_restaurant-registration)
+    - [코드리뷰 PR](https://github.com/CodeSoom/week4-assignment-2/pull/6)
