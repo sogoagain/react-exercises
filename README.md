@@ -25,3 +25,5 @@
     - [코드리뷰 PR](https://github.com/CodeSoom/week4-assignment-2/pull/6)
 8. [레스토랑 조회 구현하기](https://github.com/sogoagain/react-exercises/tree/master/08_restaurant-search)
     - [코드리뷰 PR](https://github.com/CodeSoom/week5-assignment-1/pull/10)
+9. [레스토랑 상세 페이지 구현하기](https://github.com/sogoagain/react-exercises/tree/master/09_restaurant-detail)
+    - [코드리뷰 PR](https://github.com/CodeSoom/week6-assignment-1/pull/10)
