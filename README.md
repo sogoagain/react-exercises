@@ -29,3 +29,5 @@
     - [코드리뷰 PR](https://github.com/CodeSoom/week6-assignment-1/pull/10)
 10. [레스토랑 로그인 페이지 및 리뷰 작성 페이지 구현하기](https://github.com/sogoagain/react-exercises/tree/master/10_restaurant-login-review)
     - [코드리뷰 PR](https://github.com/CodeSoom/week7-assignment-1/pull/13)
+11. [레스토랑 앱 꾸미기](https://github.com/sogoagain/react-exercises/tree/master/11_restaurant-style)
+    - [코드리뷰 PR](https://github.com/CodeSoom/week8-assignment-1/pull/1)
